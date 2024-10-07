@@ -2,6 +2,7 @@
 width: 24px;
 height: 24px;
 background-color: url(Menu.svg);
+background-repeat: no-repeat;
 display: inline-block;/**/
 
 }
